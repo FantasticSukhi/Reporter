@@ -50,7 +50,8 @@ Go to the ` TexoReporter.py ` file :
 - ⚜ `pip install requests`
 - ⚜ `pip install colorama`
 - ⚜ `pip install asyncio`
-- :recycle:️ `cd /path/to/your/file`
+- `git clone https://github.com/FantasticSukhi/Reporter.git`
+- :recycle:️ `cd Reporter`
 - :recycle:️ `ls`
 - :recycle:️ `cd download`
 - :recycle:️ `ls`
